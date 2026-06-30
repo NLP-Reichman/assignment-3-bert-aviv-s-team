@@ -1,6 +1,6 @@
 {
   "test_link": {
-    "link": null
+    "link": "https://colab.research.google.com/drive/1bTnpvmehY4Ei1uNCYwz5qmZMKACDVxiM?usp=sharing"
   },
   "test_read_data": {
     "lengths": [
@@ -12,15 +12,15 @@
   "test_prepare_data": {
     "dev_texts_shape": [
       250,
-      512
+      61
     ],
     "train_labels_shape": [
       1750,
-      512
+      77
     ]
   },
   "test_model": {
-    "f1": 0.9841022397562605,
-    "f1_wo_o": 0.9513655758758945
+    "f1": 0.9839916803647375,
+    "f1_wo_o": 0.9487383579980004
   }
 }
